@@ -25,6 +25,6 @@ Node.js
 
 ## Project
 
-Link to project [project](https://github.com/AXJAS/knapsack_problem/)
+Link to project [project]([https://github.com/AXJAS/knapsack_problem/](https://github.com/whalex190-cmd/DSPP-Project))
 
 ![Histogram](/images/histogram-example-2.png)
