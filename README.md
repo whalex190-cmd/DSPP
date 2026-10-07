@@ -4,14 +4,23 @@
 ## My skills
 
 Data Analysis
+
 Machine Learning
+
 Agentic AI 
+
 Generative AI
+
 SQL
+
 Python
+
 Javascript
+
 Typescript
+
 React
+
 Node.js
 
 ## Project
